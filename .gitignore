@@ -1,0 +1,17 @@
+# Logs
+*.log
+
+# VSCode
+.vscode/
+
+# PowerShell history
+ConsoleHost_history.txt
+
+# Credentials
+*.xml
+*.cred
+*.clixml
+
+# OS
+.DS_Store
+Thumbs.db
